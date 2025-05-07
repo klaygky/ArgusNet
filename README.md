@@ -1,2 +1,2 @@
-# MM-3DVG
+# ArgusNet
 Our code will be available soon!
